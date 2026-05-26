@@ -1,0 +1,29 @@
+# C++ build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.exp
+*.lib
+*.pdb
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Compiled output
+build/
+bin/
+out/
+
+# Logs
+*.log
