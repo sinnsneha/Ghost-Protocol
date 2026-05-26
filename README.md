@@ -12,7 +12,7 @@
 **A cyberpunk terminal hacking game where five algorithms chain into one unbroken sequence.**
 **Solve them. Or get burned.**
 
-![Intro](screenshots/01_intro.png)
+![Intro](screenshots/Intro.png)
 
 </div>
 
@@ -56,7 +56,7 @@ Five algorithms. One state machine. Zero room for error.
 
 The scanner sweeps the network in pulses. Most slots are watched. A few aren't. Find the longest blind spot and that becomes your entry point.
 
-![Game 1](screenshots/02_game1_sonar.png)
+![Game 1](screenshots/Game1%20-%20Sonar%20Sweep.png)
 
 </td>
 <td width="50%" valign="top">
@@ -67,7 +67,7 @@ The scanner sweeps the network in pulses. Most slots are watched. A few aren't. 
 
 The vault encrypts every byte using your entry point ID as the key. Run it back through XOR and the truth comes out — including how many suspects MegaCorp is hiding.
 
-![Game 2](screenshots/03_game2_xor.png)
+![Game 2](screenshots/Game2%20-%20Vault%20Breaker.png)
 
 </td>
 </tr>
@@ -80,7 +80,7 @@ The vault encrypts every byte using your entry point ID as the key. Run it back 
 
 An AI guardian blocks the server core. It plays Nim like a god. The piles are seeded by your suspect count. There's only one way to win — and the math knows it before you do.
 
-![Game 3](screenshots/04_game3_nim.png)
+![Game 3](screenshots/Game3%20-%20Shadow%20Nim.png)
 
 </td>
 <td width="50%" valign="top">
@@ -91,7 +91,7 @@ An AI guardian blocks the server core. It plays Nim like a god. The piles are se
 
 The insider's camera cluster is one cut away from going dark. Find the **bridge edge** — the single connection whose removal severs the graph. Cut wrong, alarms wake up.
 
-![Game 4](screenshots/05_game4_tarjan.png)
+![Game 4](screenshots/Game4%20-%20City%20Blackout.png)
 
 </td>
 </tr>
@@ -104,7 +104,7 @@ The insider's camera cluster is one cut away from going dark. Find the **bridge 
 
 Evidence downloaded. Now you run. Rooms unlock in dependency order — clear them wrong and doors lock behind you. Find the unlock order, then find the shortest path to the exit. If you triggered the alarm in Game 4, two doors are gone and the graph collapses into a single chain. Adapt or die.
 
-![Game 5](screenshots/06_game5_escape.png)
+![Game 5](screenshots/Game5%20-%20Escape%20Route.png)
 
 </td>
 </tr>
